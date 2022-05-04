@@ -1,0 +1,19 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Redmi Note 11",
+      "price": "1134"
+    },
+    {
+      "id": 2,
+      "name": "Samsung Galaxy A52s 5G",
+      "price": 1699
+    },
+    {
+      "id": 3,
+      "name": "Samsung Galaxy M52 5G",
+      "price": 1589
+    }
+  ]
+}
